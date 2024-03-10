@@ -1,0 +1,5 @@
+System.Windows.Forms.dll
+System.Windows.Forms.Primitives.dll
+System.Drawing.Common.dll
+Microsoft.Win32.SystemEvents.dll
+Accessibility.dll
